@@ -1,7 +1,8 @@
 # Hello, I am Sagar Saurabh
+I am a seasoned Information Security Professional who contunually strives to "Learn the Art of InfoSeq" and help organisations curate a Secure environment for carrying out business goals.
 <a href="[https://linkedin.com](https://www.linkedin.com/in/infosecprofessional)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+(https://www.linkedin.com/in/infosecprofessional)
 
-I am a well seasoned Information Security Professional who contunually strives to "Learn the Art of InfoSeq" and help organisations curate a Secure environment for carrying out business goals.
 
 ## Objective.
 All through my Journey as mere IT Helpdesk Engr to the a avid  mid level Cybersecurity Professional I have felt that there is a huge gap in industry as lot of individuals stagnate at L1 level not able to springboard to levels L2/L3 and beyond, and I am eager to pitch in.     
