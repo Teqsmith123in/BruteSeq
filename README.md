@@ -1,5 +1,6 @@
 # Hello, I am Sagar Saurabh
 I am a seasoned Information Security Professional who contunually strives to "Learn the Art of InfoSeq" and help organisations curate a Secure environment for carrying out business goals.
+
 <a href="[https://linkedin.com](https://www.linkedin.com/in/infosecprofessional)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 (https://www.linkedin.com/in/infosecprofessional)
 
@@ -9,16 +10,14 @@ All through my Journey as mere IT Helpdesk Engr to the a avid  mid level Cyberse
 
    
    ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Period/Since               |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Application Security & Threat Modelling
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| <img alt="Static Badge" src="https://img.shields.io/badge/SOC%20Operations%20implementation%20%26%20Administration-blue"> |2015 till date |
+| <img alt="Static Badge" src="https://img.shields.io/badge/Endpoint%20Protection%20AV%2FXDR-orange"> |2017 till date |
+|<img alt="Static Badge" src="https://img.shields.io/badge/%20Training%3A%20Incident%20Response%20Planning%20and%20Execution%2C%20SOC%20SOP%2FKnowledgebase%20Creation%20-green">|2017 till date |
+| <img alt="Static Badge" src="https://img.shields.io/badge/%20Application%20Security%20%26%20Threat%20Modelling-orange">| 2018 till date |
+|<img alt="Static Badge" src="https://img.shields.io/badge/%20IT%20Security%20Risk%20%26%20Compliance%20Management-brown">| 2018 till date |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
