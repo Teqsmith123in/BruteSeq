@@ -19,8 +19,23 @@ All through my Journey as mere IT Helpdesk Engr to the a avid  mid level Cyberse
 | <img alt="Static Badge" src="https://img.shields.io/badge/%20Application%20Security%20%26%20Threat%20Modelling-orange">| 2018 till date |
 |<img alt="Static Badge" src="https://img.shields.io/badge/%20IT%20Security%20Risk%20%26%20Compliance%20Management-brown">| 2018 till date |
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+## Projects
+- a) PIA n DPIA on Smart City Projects with case study
+  Youtue Playlist
+  LinkedIn Discussion 
+- b) Understand and learn to replicate IT Security idiolect
+  <ol>
+  <li>Set the groundwork</li>
+      <ol>
+      <li>Need for creating security framework</li>
+      <li>Existing security frameworks</li>
+      <li>Create Security baselines</li>
+      <li>Basics of IT Risk Management</li>
+      <li>Sample Case Study in Risk Management</li>
+      </ol>
+  </li>
+  </ol>
 
 ### Network
 <div>
@@ -52,18 +67,4 @@ All through my Journey as mere IT Helpdesk Engr to the a avid  mid level Cyberse
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- a) PIA n DPIA on Smart City Projects with case study
-- b) Understand and learn to replicate IT Security idiolec
-  <ol>
-  <li>Set the groundwork</li>
-      <ol>
-      <li>Need for creating security framework</li>
-      <li>Existing security frameworks</li>
-      <li>Create Security baselines</li>
-      <li>Basics of IT Risk Management</li>
-      <li>Sample Case Study in Risk Management</li>
-      </ol>
-  </li>
-  </ol>
-- c) Learn how to understand Cybersecurity Malware/Virus/Vulnerability advisories and do deepdive for IOCs/IOAs, further risk mitigation.
+
